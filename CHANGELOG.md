@@ -8,6 +8,16 @@ specification.
 
 --------------------------------------------------------------------------------
 
+## [Unreleased]
+
+### Added
+
+- Add chart with rankings to View Issue page form
+  [#XX](https://github.com/mantisbt-plugins/GaugeSupport/issues/XX)
+- Display ranking information in View Issue page
+  [#XX](https://github.com/mantisbt-plugins/GaugeSupport/issues/XX)
+
+
 ## [2.5.0] - 2020-05-25 
 
 ### Added
